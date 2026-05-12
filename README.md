@@ -2,7 +2,15 @@
 
 Cloud Engineer based in Turkey, working at an AWS consulting partner. I design and operate cloud infrastructure — from VPC networking and container orchestration to CI/CD pipelines and platform engineering.
 
-I enjoy building reliable, scalable systems and automating everything that shouldn't be done twice.
+I enjoy building reliable, scalable systems and automating everything that shouldn't be done twice. Outside of work, I produce music in FL Studio.
+
+## Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AWS_Developer_Associate-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS Developer Associate"/>
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner"/>
+  <img src="https://img.shields.io/badge/AWS_AI_Practitioner-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS AI Practitioner"/>
+</p>
 
 ## Languages and Tools
 
@@ -17,6 +25,7 @@ I enjoy building reliable, scalable systems and automating everything that shoul
   <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/></a>
 </p>
 
 <h4>Observability</h4>
@@ -33,6 +42,7 @@ I enjoy building reliable, scalable systems and automating everything that shoul
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prisaboratorio/prisaboratorio-icon.svg" alt="prisma" width="40" height="40"/></a>
 </p>
 
 <h4>Databases</h4>
@@ -43,19 +53,15 @@ I enjoy building reliable, scalable systems and automating everything that shoul
   <a href="https://www.elastic.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
 </p>
 
-## What I Work With
+## Projects
 
-- **Cloud & Networking** — VPC architecture, ECS/EKS, Fargate, EC2, ALB, RDS, Route53, ACM, WAF
-- **Kubernetes** — Karpenter, HPA/VPA autoscaling, EKS upgrades, multi-tenant platforms, Helm, ArgoCD, GitOps
-- **Observability** — Grafana, Prometheus, Loki, CloudWatch
-- **Infrastructure as Code** — AWS CDK, Terraform
-- **CI/CD & DevOps** — CodePipeline, CodeBuild/CodeDeploy, Docker, ECR, nginx
-- **Security** — IAM, Secrets Manager, HashiCorp Vault
-- **Backend** — .NET, Python, Node.js
-- **Frontend** — Next.js, React
-- **Data** — RDS (MySQL), DynamoDB, MongoDB, OpenSearch
-- **AI/ML Infra** — SageMaker, LiteLLM, GPU instance management
-- **OS & Scripting** — Linux, systemd, Bash/Shell
+| Project | Description |
+|---------|-------------|
+| **AWS Cost Tracker** | Internal cost monitoring and alerting tool for multi-account AWS environments |
+| **Distributed Load Testing** | ECS Fargate-based load testing platform with React UI and CDK infrastructure |
+| **K8s UI** | Internal dashboard for managing Kubernetes workloads and cluster operations |
+
+> These are internal tools built at work — source code is in private repositories.
 
 ## Get in Touch
 
