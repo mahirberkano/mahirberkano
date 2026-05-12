@@ -7,9 +7,9 @@ I enjoy building reliable, scalable systems and automating everything that shoul
 ## Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/AWS_Developer_Associate-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS Developer Associate"/>
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner"/>
-  <img src="https://img.shields.io/badge/AWS_AI_Practitioner-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS AI Practitioner"/>
+  <a href="https://www.credly.com/badges/693904c9-d826-420a-a49e-c6ba2749c658/public_url"><img src="https://img.shields.io/badge/AWS_Developer_Associate-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS Developer Associate"/></a>
+  <a href="https://www.credly.com/badges/61222707-2416-419d-8df0-c3c76f7dacaf/public_url"><img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner"/></a>
+  <a href="https://www.credly.com/badges/460bf48c-06e3-4a91-a7b4-096f304ac26b/public_url"><img src="https://img.shields.io/badge/AWS_AI_Practitioner-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS AI Practitioner"/></a>
 </p>
 
 ## Languages and Tools
