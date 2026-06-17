@@ -57,6 +57,7 @@ I enjoy building reliable, scalable systems and automating everything that shoul
 
 | Project | Description |
 |---------|-------------|
+| **Spectra ECS** | Lens-style desktop app for managing AWS ECS clusters, services, and tasks with real-time metrics and interactive terminal |
 | **AWS Cost Tracker** | Internal cost monitoring and alerting tool for multi-account AWS environments |
 | **Distributed Load Testing** | ECS Fargate-based load testing platform with React UI and CDK infrastructure |
 | **K8s UI** | Internal dashboard for managing Kubernetes workloads and cluster operations |
