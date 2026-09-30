@@ -1,6 +1,6 @@
 # Hey, I'm Mahir
 
-Cloud Engineer based in Turkey, working at an AWS consulting partner. I design and operate cloud infrastructure — from VPC networking and container orchestration to CI/CD pipelines and platform engineering.
+Cloud & Devops Engineer based in Turkey, working at an AWS consulting partner. I design and operate cloud infrastructure — from VPC networking and container orchestration to CI/CD pipelines and platform engineering.
 
 I enjoy building reliable, scalable systems and automating everything that shouldn't be done twice. Outside of work, I produce music in FL Studio.
 
